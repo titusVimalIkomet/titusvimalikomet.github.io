@@ -1,0 +1,99 @@
+[ 
+    { 
+       "id":1,
+       "processId":"Scope_1 (88)",
+       "projectName":"DeGruyter_BAMS(13)",
+       "clientId":"Compuscript (6)",
+       "startDate":"8-04-2019",
+       "endDate":"16-05-2019"
+    },
+    { 
+       "id":2,
+       "processId":"Scope_1 (88)",
+       "projectName":"DeGruyter_BMT(16)",
+       "clientId":"Compuscript (6)",
+       "startDate":"8-04-2019",
+       "endDate":"16-05-2019"
+    },
+    { 
+       "id":3,
+       "processId":"Scope_1 (88)",
+       "projectName":"DeGruyter_BOTMAR(17)",
+       "clientId":"Compuscript (6)",
+       "startDate":"8-04-2019",
+       "endDate":"16-05-2019"
+    },
+    { 
+       "id":4,
+       "processId":"Scope_1 (88)",
+       "projectName":"DeGruyter_CCLM(18)",
+       "clientId":"Compuscript (6)",
+       "startDate":"8-04-2019",
+       "endDate":"16-05-2019"
+    },
+    { 
+       "id":5,
+       "processId":"Scope_1 (88)",
+       "projectName":"DeGruyter_CCLM(18)",
+       "clientId":"Compuscript (6)",
+       "startDate":"8-04-2019",
+       "endDate":"16-05-2019"
+    },
+    { 
+       "id":6,
+       "processId":"Scope_1 (88)",
+       "projectName":"DeGruyter_DX(19)",
+       "clientId":"Compuscript (6)",
+       "startDate":"8-04-2019",
+       "endDate":"16-05-2019"
+    },
+    { 
+       "id":7,
+       "processId":"Scope_1 (88)",
+       "projectName":"DeGruyter_EJNM(20)",
+       "clientId":"Compuscript (6)",
+       "startDate":"8-04-2019",
+       "endDate":"16-05-2019"
+    },
+    { 
+       "id":8,
+       "processId":"Scope_1 (88)",
+       "projectName":"DeGruyter_ISS(32)",
+       "clientId":"Compuscript (6)",
+       "startDate":"8-04-2019",
+       "endDate":"16-05-2019"
+    },
+    { 
+       "id":9,
+       "processId":"Scope_1 (88)",
+       "projectName":"DeGruyter_JBCPP(22)",
+       "clientId":"Compuscript (6)",
+       "startDate":"8-04-2019",
+       "endDate":"16-05-2019"
+    },
+    { 
+       "id":10,
+       "processId":"Scope_1 (88)",
+       "projectName":"DeGruyter_JLM(23)",
+       "clientId":"Compuscript (6)",
+       "startDate":"8-04-2019",
+       "endDate":"16-05-2019"
+    },
+    { 
+       "id":11,
+       "processId":"Scope_1 (88)",
+       "projectName":"DeGruyter_JPEM(24)",
+       "clientId":"Compuscript (6)",
+       "startDate":"8-04-2019",
+       "endDate":"16-05-2019"
+    },
+    { 
+       "id":12,
+       "processId":"Scope_1 (88)",
+       "projectName":"Bret",
+       "clientId":"Compuscript (6)",
+       "startDate":"8-04-2019",
+       "endDate":"16-05-2019"
+    }
+ ]
+ 
